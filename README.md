@@ -1,6 +1,6 @@
 # Social Share
 
-Having ways for your website user to quickly share links via social media is a necessity today. However, many plugins and third-party resources we rely on to achieve this functionality include unnecessary complexities. Because of this, [Solodev](https://www.solodev.com/) has develoed an inline "Social Share" toolbar that's extremely simple to implement. Add this toolbar to your website in order to enable your website visitors to share via Facebook, Twitter, and LinkedIn.
+Having ways for your website user to quickly share links via social media is a necessity today. However, many plugins and third-party resources we rely on to achieve this functionality include unnecessary complexities. Because of this, [Solodev](https://www.solodev.com/) has developed an inline "Social Share" toolbar that's extremely simple to implement. Add this toolbar to your website in order to enable your website visitors to share via Facebook, Twitter, and LinkedIn.
 
 ## Tutorial
 
